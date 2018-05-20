@@ -3,7 +3,7 @@
 * 각각의 테이블은 PK 를 가지고 있으며 producks 는 FK 를 가지고 있다.
 
 #### products
-~~~
+~~~SQL
 +--------------+---------------+------+-----+---------+-------+
 | Field        | Type          | Null | Key | Default | Extra |
 +--------------+---------------+------+-----+---------+-------+
@@ -15,7 +15,7 @@
 ~~~
 
 #### manufacturers
-~~~
+~~~SQL
 +-------+--------------+------+-----+---------+-------+
 | Field | Type         | Null | Key | Default | Extra |
 +-------+--------------+------+-----+---------+-------+
@@ -25,7 +25,7 @@
 ~~~
 
 #### Table creation code & Sample dataset
-~~~
+~~~SQL
 CREATE TABLE Manufacturers (
   Code INTEGER,
   Name VARCHAR(255) NOT NULL,
