@@ -1,0 +1,2 @@
+# LearnSQL
+SQL Exercise
