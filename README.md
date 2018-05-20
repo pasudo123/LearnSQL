@@ -9,7 +9,7 @@
 ## 공부환경
 * MySQL Ver 14.14 Distrib 5.7.20, for Win64 (x86_64)
 
-## 디렉소리
+## 디렉토리
 * [ The computer store ](https://github.com/pasudo123/LearnSQL/tree/master/The%20computer%20store)
 
 ## 공부를 도와주는 사이트
