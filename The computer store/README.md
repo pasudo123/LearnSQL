@@ -2,6 +2,13 @@
 * 두 테이블 _products_, _manufacturers_ 가 존재한다.
 * 각각의 테이블은 PK 를 가지고 있으며 producks 는 FK 를 가지고 있다.
 
+#### What I learned in this chapter
+* Inner Join
+* Group by
+* Having
+* set autocommit = 0 / set autocommit = 1
+* LIMIT
+
 #### products
 ~~~SQL
 +--------------+---------------+------+-----+---------+-------+
