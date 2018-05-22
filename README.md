@@ -11,6 +11,7 @@
 
 ## 디렉토리
 * [ The computer store ](https://github.com/pasudo123/LearnSQL/tree/master/The%20computer%20store)
+* [ Employee management ](https://github.com/pasudo123/LearnSQL/tree/master/Employee%20management)
 
 ## 공부를 도와주는 사이트
 * [ SQLExercises ](https://en.wikibooks.org/wiki/SQL_Exercises)
