@@ -15,4 +15,4 @@
 
 ## 공부를 도와주는 사이트
 * [ SQLExercises ](https://en.wikibooks.org/wiki/SQL_Exercises)
-* [ LeetCode : Database ](https://leetcode.com/problemset/database/)
+* [ LeetCode : Database ](https://leetcode.com)
