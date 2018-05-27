@@ -3,6 +3,17 @@
   * _Departments_
   * _Employees_
 
+#### What I learned in this chapter
+* Inner Join
+* Group by
+* Having
+* ORDER BY ASC / ORDER BY DESC
+* LIMIT & OFFSET
+* Sub Query
+
+#### reference
+* [ Using MySQL LIMIT to Constrain The Number of Rows Returned By SELECT Statement ](http://www.mysqltutorial.org/mysql-limit.aspx)
+
 #### Departments
 ~~~SQL
 +--------+---------+------+-----+---------+-------+
