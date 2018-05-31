@@ -8,5 +8,9 @@
 * [ Customers Who Never Order ](https://github.com/pasudo123/LearnSQL/blob/master/LeetCode/Easy/183.%20Customers%20Who%20Never%20Order.sql)
 * ~~[ Delete Duplicate Emails ]()~~
 * [ Rising Temperature ](https://github.com/pasudo123/LearnSQL/blob/master/LeetCode/Easy/197.%20Rising%20Temperature.sql)
+* [ Big Countries ]()
+* [ Classes More Than 5 Students ]()
+* [	Not Boring Movies ]()
+* [ Swap Salary ]()
 ### Medium
 ### Hard
