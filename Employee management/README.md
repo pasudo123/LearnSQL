@@ -74,7 +74,19 @@ INSERT INTO Employees(SSN,Name,LastName,Department) VALUES('845657246','Kumar','
 
 ## exercise
 1. Select the last name of all employees.
+```SQL
+SELECT LastName FROM employees;
+```
+
 2. Select the last name of all employees, without duplicates.
+```SQL
+-- Use distinct
+SELECT distinct LastName FROM employees;
+
+-- Use Group BY
+SELECT LastName FROM employees GROUP BY LastName;
+```
+
 3. Select all the data of employees whose last name is "Smith".
 4. Select all the data of employees whose last name is "Smith" or "Doe".
 5. Select all the data of employees that work in department 14.
